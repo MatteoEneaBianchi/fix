@@ -1,0 +1,19 @@
+menu:
+  - name: Cultura
+    url: /cultura/
+  - name: Integrazione sociale e uguaglianza
+    url: /pariopportunita/
+  - name: Sport
+    url: /sport/
+  - name: Persone
+    url: /persone/
+  - name: Sul Progetto
+    url: /sulprogetto/
+  - name: Uffici
+    url: /uffici/
+  - name: Aree
+    url: /aree/
+  - name: Associazioni
+    url: /associazioni/
+  - name: Biblioteca
+    url: /cultura/biblioteca/
